@@ -139,7 +139,6 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-feed
   jekyll-gist
-  jekyll-include-cache
   jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag
