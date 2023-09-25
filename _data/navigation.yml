@@ -3,3 +3,5 @@ main:
     url: /
   - title: "News"
     url: /posts/
+  - title: "about"
+    url: /about/ 

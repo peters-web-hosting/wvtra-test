@@ -1,0 +1,13 @@
+--
+--
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+div{
+    .groups{
+        width: 33%;
+        border-color: black;
+        border-width: 1px;
+    }
+}
+
