@@ -1,13 +1,15 @@
 ---
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
 
+#main{
+    width: 100%;   
+    max-width: 100%;}
 div{
     .groups{
         width: 33%;
         float: left;
     }
 }
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes"; 
