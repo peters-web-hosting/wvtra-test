@@ -63,6 +63,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
 plugins:
-    - jekyll-minifier
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-minifier
+  - jekyll-default-layout
