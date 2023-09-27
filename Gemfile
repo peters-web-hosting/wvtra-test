@@ -15,4 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-minifier"
   gem 'jekyll-default-layout'
+  gem 'jekyll_picture_tag'
+  gem 'jekyll-webp'
+  gem 'jekyll-optional-front-matter'
 end
