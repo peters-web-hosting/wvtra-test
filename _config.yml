@@ -74,3 +74,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
   - jekyll-default-layout
+  - jekyll-optional-front-matter
