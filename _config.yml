@@ -72,5 +72,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-minifier
   - jekyll-default-layout
   - jekyll-optional-front-matter
